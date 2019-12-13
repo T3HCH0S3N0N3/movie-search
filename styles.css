@@ -119,6 +119,10 @@ h1 {
   width: 100%;
 }
 
+.movie a:visited {
+  color: #fff;
+}
+
 .movie a:hover {
   opacity: 1;
 }
